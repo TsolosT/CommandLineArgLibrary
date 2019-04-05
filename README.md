@@ -1,6 +1,6 @@
 # CommandLineArgLibrary
 
-* An educational small program for getting familiar with java.A library to read the command line parameters.
+* An educational small program for getting familiar with java & javadoc .A library to read the command line parameters.
 
 ## Description
 
