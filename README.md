@@ -13,11 +13,11 @@
 
 ## Features 
 
--sd, / sd,  : showdisplay Displays the basic attributes of the file or folder.
--nd, / nd,  : noteetails Saves the attributes of the given file / folder to a new text file.
--d, / d,  : delete Deletes the given file or folder.
--cn, / cn,  : changename Changes the file / folder name.
--h, / h, help  :Displays the program user's manual.
+* -sd, / sd,  : showdisplay Displays the basic attributes of the file or folder.
+* -nd, / nd,  : noteetails Saves the attributes of the given file / folder to a new text file.
+* -d, / d,  : delete Deletes the given file or folder.
+* -cn, / cn,  : changename Changes the file / folder name.
+* -h, / h, help  :Displays the program user's manual.
 
 ## Examples
 
